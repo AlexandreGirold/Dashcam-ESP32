@@ -1,0 +1,9 @@
+I have encoundered some problems with my ESP32 board
+
+1. When i connected to it and started streaming video, the video output was very very slow (around 0.4 fps) which is a far cry from the 15-30 fps excpeted.
+2. Looking throught the internet and messing with the board i realised 2 things :
+    - Touching the entenna with my finger drastically increses the fps.
+    - Adding the external entenna (without using it (no welding)) also incresed the fps
+
+
+
