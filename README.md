@@ -8,4 +8,4 @@ Here is the setup :
 
 
 
-![The setup](/.Pictures/setup.jpg)
+![The setup](./Pictures/setup.jpg)
