@@ -8,4 +8,4 @@ Here is the setup :
 
 
 
-![Uploading Pictures/setup.jpg…]()
+![The setup](/.Pictures/setup.jpg)
