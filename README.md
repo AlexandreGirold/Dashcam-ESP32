@@ -9,3 +9,5 @@ Here is the setup :
 
 
 ![The setup](./Pictures/setup.jpg)
+
+ESP32 Antanna died (1fps maximum output)
